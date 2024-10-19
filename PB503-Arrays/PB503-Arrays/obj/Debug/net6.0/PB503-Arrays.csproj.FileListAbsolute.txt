@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\PB503-Arrays\PB503-Arrays\bin\Debug\net6.0\PB503-Arrays.exe
+C:\Users\ASUS\source\repos\PB503-Arrays\PB503-Arrays\bin\Debug\net6.0\PB503-Arrays.deps.json
+C:\Users\ASUS\source\repos\PB503-Arrays\PB503-Arrays\bin\Debug\net6.0\PB503-Arrays.runtimeconfig.json
+C:\Users\ASUS\source\repos\PB503-Arrays\PB503-Arrays\bin\Debug\net6.0\PB503-Arrays.dll
+C:\Users\ASUS\source\repos\PB503-Arrays\PB503-Arrays\bin\Debug\net6.0\PB503-Arrays.pdb
+C:\Users\ASUS\source\repos\PB503-Arrays\PB503-Arrays\obj\Debug\net6.0\PB503-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PB503-Arrays\PB503-Arrays\obj\Debug\net6.0\PB503-Arrays.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PB503-Arrays\PB503-Arrays\obj\Debug\net6.0\PB503-Arrays.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PB503-Arrays\PB503-Arrays\obj\Debug\net6.0\PB503-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PB503-Arrays\PB503-Arrays\obj\Debug\net6.0\PB503-Arrays.dll
+C:\Users\ASUS\source\repos\PB503-Arrays\PB503-Arrays\obj\Debug\net6.0\refint\PB503-Arrays.dll
+C:\Users\ASUS\source\repos\PB503-Arrays\PB503-Arrays\obj\Debug\net6.0\PB503-Arrays.pdb
+C:\Users\ASUS\source\repos\PB503-Arrays\PB503-Arrays\obj\Debug\net6.0\PB503-Arrays.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\PB503-Arrays\PB503-Arrays\obj\Debug\net6.0\ref\PB503-Arrays.dll
